@@ -1,0 +1,60 @@
+Symbolic set saved to file: Target_Obst_SS/vehicle_ss_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_obst_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_target_DDS.bdd
+0.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+Elapsed time is 588.566 seconds.
+
+Number of elements in the transition relation: 89235
+Iterations: . number: 2
+Elapsed time is 2.211e-05 seconds.
+Controller size: 0
+Symbolic set saved to file: Target_Obst_SS/vehicle_ss_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_obst_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_target_DDS.bdd
+0.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+Elapsed time is 16.5195 seconds.
+
+Number of elements in the transition relation: 832923
+Iterations: . number: 2
+Elapsed time is 2.5941e-05 seconds.
+Controller size: 0
+Symbolic set saved to file: Target_Obst_SS/vehicle_ss_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_obst_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_target_DDS.bdd
+0.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+Elapsed time is 133.297 seconds.
+
+Number of elements in the transition relation: 7.63635e+06
+Iterations: . number: 2
+Elapsed time is 0.000120721 seconds.
+Controller size: 0
+Symbolic set saved to file: Target_Obst_SS/vehicle_ss_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_obst_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_target_DDS.bdd
+0.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+Elapsed time is 1117.1 seconds.
+
+Number of elements in the transition relation: 8.58865e+07
+Iterations: ... number: 4
+Elapsed time is 2.38123 seconds.
+Controller size: 8961
+Symbolic set saved to file: Controllers/vehicle_controller_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_ss_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_obst_DDS.bdd
+Symbolic set saved to file: Target_Obst_SS/vehicle_target_DDS.bdd
+0.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+Elapsed time is 11656.3 seconds.
+
+Number of elements in the transition relation: 1.22573e+09
+Iterations: ................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+................................................................................
+..................................... number: 678
+Elapsed time is 19735.3 seconds.
+Controller size: 856989
+Symbolic set saved to file: Controllers/vehicle_controller_DDS.bdd
